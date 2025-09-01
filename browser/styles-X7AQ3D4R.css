@@ -1,0 +1,1 @@
+:root{--primary-background: #701C1A;--sec-back: #070709}body{background:linear-gradient(to bottom,var(--primary-background),var(--sec-back));color:var(--default-font-color)}::-webkit-scrollbar{display:none}

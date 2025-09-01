@@ -1,0 +1,14 @@
+export default `<!doctype html>
+<html lang="en" data-beasties-container="">
+<head>
+  <meta charset="utf-8">
+  <title>Lavin's Portfolio</title>
+  <base href="https://github.com/Lavuee/Portfolio.git">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<style>:root{--primary-background:#701C1A;--sec-back:#070709}body{background:linear-gradient(to bottom,var(--primary-background),var(--sec-back));color:var(--default-font-color)}</style><link rel="stylesheet" href="styles-X7AQ3D4R.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-X7AQ3D4R.css"></noscript></head>
+<body ngcm="">
+  <app-root></app-root>
+<script src="main-2VZGX7B5.js" type="module"></script></body>
+</html>
+`;
